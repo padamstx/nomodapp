@@ -27,7 +27,7 @@
 
 [[constraint]]
   name = "github.com/padamstx/gomodlib"
-  version = "1.0.0"
+  version = "1.0.1"
 
 [prune]
   go-tests = true
