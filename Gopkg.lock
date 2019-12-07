@@ -2,16 +2,16 @@
 
 
 [[projects]]
-  digest = "1:ca88291d22067e6543714ec00f50fa1d07398b9399d61e30398217b85e475070"
+  digest = "1:2c7e507311153de4de02673c293d58653b52c7ae07f3a88c9aa1421e25369f5b"
   name = "github.com/padamstx/gomodlib"
-  packages = ["v2"]
+  packages = ["v3"]
   pruneopts = "UT"
-  revision = "6f81460581f8bb7ab9379339c09bcf055867258c"
-  version = "v2.0.0"
+  revision = "64512496899e24c9b7e49d1d2d77deb4f2a69971"
+  version = "v3.0.0"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  input-imports = ["github.com/padamstx/gomodlib/v2"]
+  input-imports = ["github.com/padamstx/gomodlib/v3"]
   solver-name = "gps-cdcl"
   solver-version = 1
