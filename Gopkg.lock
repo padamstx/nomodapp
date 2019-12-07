@@ -2,12 +2,12 @@
 
 
 [[projects]]
-  digest = "1:5b79f26c3bc5a79cffee8803f80acf1f0c0adf6f38af312cfa0294440b536380"
+  digest = "1:d3f1f235507eab7ca6f3438fd0deb106fd1077fe1112c7d6b0197afca42d76c1"
   name = "github.com/padamstx/gomodlib"
   packages = ["."]
   pruneopts = "UT"
-  revision = "983e2e7eab603333fdaeecf74f40f1f84b753481"
-  version = "v0.0.1"
+  revision = "12de869c5f930ca1d4c0560d07841dabeb18b6a7"
+  version = "v1.0.0"
 
 [solve-meta]
   analyzer-name = "dep"
